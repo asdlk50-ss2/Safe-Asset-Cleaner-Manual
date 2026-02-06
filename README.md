@@ -4,7 +4,6 @@
 
 <img width="1870" height="797" alt="image" src="https://github.com/user-attachments/assets/3a051fff-0423-406d-b996-54c42ed00902" />
 
-
 * **🛡️ Safety First:** Automatic `.unitypackage` backups before deletion and a **One-Click Undo** button.
 * **🔍 Unused Asset Finder:** Deep scans scenes, prefabs, and build settings to find truly unused files.
 * **👯 Duplicate Finder:** Uses **MD5 hashing** to detect identical files even if they have different names.
@@ -105,9 +104,9 @@ The source code and assets are protected by the **Unity Asset Store End User Lic
 ### ✅ Usage
 * You are free to modify the source code for use in your own commercial or non-commercial projects **after purchasing a license** from the Unity Asset Store.
 
----
-**Copyright © 2026 asdlk50. All rights reserved.**
-
 ## 📧 Support
 If you have any questions or find a bug, please contact us:
 * **Email:** asdlk50@gmail.com
+
+---
+**Copyright © 2026 asdlk50. All rights reserved.**
