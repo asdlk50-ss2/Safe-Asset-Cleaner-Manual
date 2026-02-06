@@ -1,4 +1,4 @@
-<img width="1870" height="797" alt="image" src="https://github.com/user-attachments/assets/508cfdc9-5e89-4368-8140-2f66bfdac2d4" /># 🛡️ Safe Asset Cleaner
+# 🛡️ Safe Asset Cleaner
 
 **Safe Asset Cleaner** is a comprehensive and safe tool designed to optimize your Unity project by removing unused assets, duplicates, and empty folders. It features a robust **Auto-Backup & Undo system**, allowing you to clean your project without the fear of breaking it.
 
